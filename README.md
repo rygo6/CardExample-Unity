@@ -18,8 +18,7 @@ Technical
 - Currently only tested to be building and running properly for OSX Desktop x86.
 
 Usage
-1. Ensure you have git and git lfs installed. https://git-lfs.github.com
-2. Run command: git clone git@github.com:rygo6/CardExample-Unity.git
-3. Open in Unity.
-4. Click 'Assets > Build all Bundles OSX'.
-5. Click 'Play'.
+1. Clone repo.
+2. Open in Unity.
+3. Click 'Assets > Build all Bundles OSX'.
+4. Click 'Play'.
